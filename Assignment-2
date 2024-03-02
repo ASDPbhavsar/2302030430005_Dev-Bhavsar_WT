@@ -1,1 +1,3816 @@
-Code of my website
+<!DOCTYPE html>                                                                                                    
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="initial-scale=1, width=device-width" />
+
+    <link rel="stylesheet" href="./global.css" />
+    <link rel="stylesheet" href="./index.css" />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;700&display=swap"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;700&display=swap"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Monda:wght@400;700&display=swap"
+    />
+  </head>
+  <body>
+    <div class="parent-a-top">
+      <section class="c-t-a-container">
+        <header class="logo-section">
+          <div class="logo-section-child"></div>
+          <div class="xyz1234-wrapper">
+            <div class="xyz1234">XYZ1234</div>
+          </div>
+          <div class="main-about-contact-price-wrapper">
+            <div class="main-about-contact">Main About Contact Price</div>
+          </div>
+          <div class="mdiinstagram-parent">
+            <img
+              class="mdiinstagram-icon"
+              loading="lazy"
+              alt=""
+              src="./public/mdiinstagram.svg"
+            />
+
+            <img
+              class="mingcutefacebook-fill-icon"
+              loading="lazy"
+              alt=""
+              src="./public/mingcutefacebookfill.svg"
+            />
+
+            <img
+              class="ant-designlinkedin-outlined-icon"
+              loading="lazy"
+              alt=""
+              src="./public/antdesignlinkedinoutlined.svg"
+            />
+          </div>
+        </header>
+      </section>
+      <section class="professional-wrapper">
+        <div class="professional">
+          <div class="special-secondpacket">
+            <div class="edit-like-a-pro-wrapper">
+              <h1 class="edit-like-a">Edit like a pro</h1>
+            </div>
+            <div class="accesstosharedchat">
+              <div class="and-make-money-wrapper">
+                <h1 class="and-make-money">and Make money</h1>
+              </div>
+              <div class="this-is-an">
+                This is an intensive program designed for those who want to
+                master skills of professional video editing and graphic design
+              </div>
+            </div>
+          </div>
+          <div class="videosonhowtoworkwithclients">
+            <div class="cta-parent">
+              <button class="cta">
+                <b class="order">Order</b>
+              </button>
+              <div class="buy-now">
+                <div class="parent-video-lectures">
+                  <b class="order-from-here">Order from here</b>
+                  <img
+                    class="akar-iconsarrow-back"
+                    loading="lazy"
+                    alt=""
+                    src="./public/akariconsarrowback.svg"
+                  />
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+      <section class="parent-a-top-inner">
+        <div class="frame-parent">
+          <div class="frame-wrapper">
+            <img
+              class="frame-child"
+              loading="lazy"
+              alt=""
+              src="./public/frame-7@2x.png"
+            />
+          </div>
+          <div class="vscode-iconsfile-type-photosh-parent">
+            <img
+              class="vscode-iconsfile-type-photosh"
+              loading="lazy"
+              alt=""
+              src="./public/vscodeiconsfiletypephotoshop.svg"
+            />
+
+            <div class="parent-mentoring-support">
+              <b class="photoshop">PhotoShop</b>
+            </div>
+            <div class="makicross-parent">
+              <img class="makicross-icon" alt="" src="./public/makicross.svg" />
+
+              <img
+                class="makicross-icon1"
+                alt=""
+                src="./public/makicross-1@2x.png"
+              />
+            </div>
+          </div>
+          <div class="parent-videos-on-working-with">
+            <button class="child-frame">
+              <img
+                class="logosadobe-after-effects-icon"
+                alt=""
+                src="./public/logosadobeaftereffects.svg"
+              />
+
+              <div class="after-effects-wrapper">
+                <b class="after-effects">After Effects</b>
+              </div>
+              <div class="c-t-a-mentoring-support">
+                <img
+                  class="makicross-icon2"
+                  alt=""
+                  src="./public/makicross-2.svg"
+                />
+              </div>
+            </button>
+          </div>
+        </div>
+      </section>
+      <section class="parent-creative-support">
+        <div class="video-deals"></div>
+        <div class="frame-button">
+          <div class="icon-set">
+            <div class="header-frame">
+              <div class="payment-frame">
+                <h1 class="details-of-users">Details of Users</h1>
+                <div class="instruction-frame"></div>
+              </div>
+            </div>
+            <div class="membership-text">
+              <div class="vector-scaling">
+                <div class="mentoring-session">
+                  <input class="name-" placeholder="Name :- " type="text" />
+
+                  <div class="mentor-rectangle"></div>
+                </div>
+                <div class="mentoring-session1">
+                  <input
+                    class="contact-number-"
+                    placeholder="Contact Number :- "
+                    type="text"
+                  />
+
+                  <div class="mentoring-session-child"></div>
+                </div>
+              </div>
+            </div>
+            <div class="homework-review">
+              <textarea class="company-logos" rows="{12}" cols="{33}">
+              </textarea>
+              <div class="instagram-tag">
+                <h2 class="email-id-">Email Id :-</h2>
+                <h2 class="address-">Address:-</h2>
+              </div>
+              <div class="twitter-tag">
+                <div class="vector-skills"></div>
+                <button class="cta1">
+                  <b class="send-us">Send us</b>
+                </button>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+      <section class="logo-container">
+        <div class="video-lecture-container"></div>
+        <div class="c-t-a-frame">
+          <div class="who-am-i-container">
+            <p class="who">
+              <span>
+                <b>Who </b>
+              </span>
+            </p>
+            <p class="am-i">
+              <span>
+                <b>am </b>
+                <span class="i">
+                  <span class="i1">I</span>
+                </span>
+                <b class="b">
+                  <span class="span"> </span>
+                  <span class="span1">?</span>
+                </b>
+              </span>
+              <span class="span2">
+                <span class="span3"> </span>
+              </span>
+            </p>
+          </div>
+        </div>
+        <img
+          class="image-1-icon"
+          loading="lazy"
+          alt=""
+          src="./public/image-1@2x.png"
+        />
+      </section>
+      <section class="special-packets">
+        <div class="as-you-know-container">
+          <p class="as-you-know">As you know my nick name is XYZ1234.</p>
+          <p class="i-am-a">I am a video editor, blogger and investor.</p>
+          <p class="i-make-quality">
+            I make quality videos and make make money
+          </p>
+        </div>
+      </section>
+      <section class="frame-with-access">
+        <div class="monthly-subscription">
+          <div class="certificate-completion">
+            <div class="social-media-audiance-container">
+              <p class="p">
+                <b>250.00+</b>
+              </p>
+              <p class="social-media-audiance">Social Media Audiance</p>
+            </div>
+            <img
+              class="skill-iconsinstagram"
+              loading="lazy"
+              alt=""
+              src="./public/skilliconsinstagram.svg"
+            />
+          </div>
+          <div class="personal-call-frame">
+            <div class="mentoring-support-frame">
+              <img
+                class="emojionecamera-icon"
+                loading="lazy"
+                alt=""
+                src="./public/emojionecamera.svg"
+              />
+
+              <div class="videos-edit-by-container">
+                <p class="videos">
+                  <b>500+ Videos</b>
+                </p>
+                <p class="edit-by-me">edit by me</p>
+              </div>
+            </div>
+          </div>
+          <div class="monthly-subscription-inner">
+            <div class="fluent-emojieye-parent">
+              <img
+                class="fluent-emojieye-icon"
+                loading="lazy"
+                alt=""
+                src="./public/fluentemojieye.svg"
+              />
+
+              <div class="views-collected-my-videos-wrapper">
+                <div class="views-collected-my-container">
+                  <p class="views">
+                    <b>200.00+ Views</b>
+                  </p>
+                  <p class="collected-my-videos">Collected my videos</p>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+      <section class="twitter-logo">
+        <div class="parent-video-lectures1"></div>
+        <div class="child-video">
+          <div class="access-period">
+            <div class="certificate">
+              <h1 class="what-awaits-you">What awaits you</h1>
+            </div>
+            <div class="client-support-videos"></div>
+          </div>
+        </div>
+      </section>
+      <section class="personal-call">
+        <div class="mentoring-support">
+          <div class="check-homework">
+            <div class="plate-1">
+              <div class="contact-info">
+                <h2 class="for-home">For home?</h2>
+              </div>
+              <div class="vector-logos-linkedin">
+                <div class="skilliconstwitter">
+                  <img
+                    class="emojionecamera-icon1"
+                    alt=""
+                    src="./public/emojionecamera-1.svg"
+                  />
+                </div>
+                <div class="is-an-intensive-container">
+                  <p class="is-an-intensive">
+                    Is an intensive program designed for those who dream of
+                  </p>
+                  <p class="mastering-professional-video">
+                    mastering professional video
+                  </p>
+                  <p class="editing-and-graphic">
+                    editing and graphic design skills
+                  </p>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="contact-me">
+            <div class="plate-2">
+              <div class="what-it-gives-wrapper">
+                <h2 class="what-it-gives">What it gives?</h2>
+              </div>
+              <div class="emojionerocket-parent">
+                <img
+                  class="emojionerocket-icon"
+                  alt=""
+                  src="./public/emojionerocket.svg"
+                />
+
+                <img
+                  class="vector-speed-line"
+                  loading="lazy"
+                  alt=""
+                  src="./public/vector.svg"
+                />
+              </div>
+              <div class="this-course-offers-container">
+                <p class="this-course-offers">
+                  This course offers participants a
+                </p>
+                <p class="unique-opportunity-to">
+                  unique opportunity to immerse
+                </p>
+                <p class="fascinating-world">fascinating world ofcreativity</p>
+              </div>
+            </div>
+          </div>
+          <div class="rectangle-certified-learning">
+            <div class="plate-3">
+              <h2 class="experiences">Experiences</h2>
+              <img
+                class="image-2-icon"
+                loading="lazy"
+                alt=""
+                src="./public/image-2@2x.png"
+              />
+
+              <div class="you-will-have">
+                You will have the opportunity to create your own video projects
+                compositions combining various styles, effects and visual
+                elements.
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+      <section class="frame-monthly-materials">
+        <div class="vector-quick-order-videos"></div>
+        <div class="frame-client-interaction-tips">
+          <div class="rectangle-professional-growth">
+            <h1 class="price">Price</h1>
+            <div class="c-t-a-upgrade-button"></div>
+          </div>
+        </div>
+      </section>
+      <img class="vector-icon" alt="" src="./public/vector.svg" />
+
+      <img class="vector-icon1" alt="" src="./public/vector.svg" />
+
+      <section class="text-node-course-description">
+        <div class="frame-access-info-frame">
+          <div class="vector-bonus-video-collection">
+            <div class="frame-mentor-support-details">
+              <div class="rectangle-professional-icon-ro">
+                <div class="text-node-payment-method-label"></div>
+                <div class="image-node-logo-showcase">
+                  <div class="image-node-logo-showcase-child"></div>
+                  <div class="payment-method-options">
+                    <h2 class="standart">Standart</h2>
+                    <div class="special-first-packet-parent">
+                      <div class="special-first-packet">
+                        Special First packet
+                      </div>
+                      <div class="logos-group"></div>
+                    </div>
+                  </div>
+                  <div class="image-node-logo-showcase-inner">
+                    <div class="frame-group">
+                      <div class="wrapper">
+                        <div class="div">$270</div>
+                      </div>
+                      <div class="frame-container">
+                        <div class="certificatecompletion-parent">
+                          <div class="certificatecompletion">
+                            <div class="videos-group">
+                              <img
+                                class="videolecture-icon"
+                                alt=""
+                                src="./public/vector.svg"
+                              />
+
+                              <div class="accesstosharedchat1">
+                                <div class="video-lecture-parent">
+                                  <div class="video-lecture">
+                                    15 video lecture
+                                  </div>
+                                  <div class="video-lecture1">
+                                    15 video lecture
+                                  </div>
+                                </div>
+                              </div>
+                            </div>
+                            <div class="videos-group1">
+                              <img
+                                class="vector-icon2"
+                                alt=""
+                                src="./public/vector.svg"
+                              />
+
+                              <div class="videos-group-inner">
+                                <div class="access-to-shared-chat-parent">
+                                  <div class="access-to-shared">
+                                    Access to shared chat
+                                  </div>
+                                  <div class="access-to-shared1">
+                                    Access to shared chat
+                                  </div>
+                                </div>
+                              </div>
+                            </div>
+                          </div>
+                          <div class="vector-parent">
+                            <img
+                              class="vector-icon3"
+                              alt=""
+                              src="./public/vector.svg"
+                            />
+
+                            <div class="personal-call-icon-group">
+                              <div class="access-to-material-container">
+                                <p class="access-to-material">
+                                  Access to material for
+                                </p>
+                                <p class="months">3 months</p>
+                              </div>
+                              <div class="access-to-material-container1">
+                                <p class="access-to-material1">
+                                  Access to material for
+                                </p>
+                                <p class="months1">3 months</p>
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+                        <div class="frames-skills">
+                          <img
+                            class="frames-skills-icon"
+                            alt=""
+                            src="./public/vector.svg"
+                          />
+
+                          <div class="certificate-completion1">
+                            Certificate completion
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                  <div class="vector">
+                    <button class="cta2">
+                      <b class="buy-now1">Buy Now </b>
+                    </button>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="button">
+              <div class="child-frame1">
+                <div class="child-frame-child"></div>
+                <div class="vector-icon4">
+                  <div class="access-parent">
+                    <div class="access">
+                      <h2 class="advance">Advance</h2>
+                      <div class="special-second-packet-wrapper">
+                        <div class="special-second-packet">
+                          Special Second packet
+                        </div>
+                      </div>
+                      <div class="rectangular-shape">
+                        <div class="box"></div>
+                      </div>
+                    </div>
+                    <div class="lecture-video">
+                      <div class="description-text">$350</div>
+                    </div>
+                  </div>
+                </div>
+                <div class="button-node">
+                  <div class="skills-icons">
+                    <div class="lecture-materials">
+                      <div class="vector-icon-lecture">
+                        <img
+                          class="vector-icon5"
+                          alt=""
+                          src="./public/vector.svg"
+                        />
+
+                        <div class="video-lecture2">15 video lecture</div>
+                      </div>
+                    </div>
+                    <div class="chat-access-shared">
+                      <div class="material-access-months">
+                        <div class="certificate-completion2">
+                          <img
+                            class="fast-order-videos"
+                            alt=""
+                            src="./public/vector.svg"
+                          />
+
+                          <div class="client-work-videos">
+                            <div class="access-to-shared2">
+                              Access to shared chat
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                      <div class="monthly-materials">
+                        <div class="certificate-completion-vid">
+                          <div class="package-content">
+                            <div class="package-content1">
+                              <img
+                                class="vector-icon-access"
+                                alt=""
+                                src="./public/vector.svg"
+                              />
+                            </div>
+                            <div class="access-to-material-container2">
+                              <p class="access-to-material2">
+                                Access to material for
+                              </p>
+                              <p class="months2">3 months</p>
+                            </div>
+                          </div>
+                        </div>
+                        <div class="material-months-access">
+                          <div class="mentoring-support-nodes-wrapper">
+                            <div class="mentoring-support-nodes">
+                              <img
+                                class="checking-homework-icon"
+                                alt=""
+                                src="./public/vector.svg"
+                              />
+
+                              <div class="certificate-completion3">
+                                Certificate completion
+                              </div>
+                            </div>
+                          </div>
+                          <div class="certificates">
+                            <div class="professionalvideolecture">
+                              <div class="accesstosharedchat2">
+                                <div class="accessmaterialformonths">
+                                  <img
+                                    class="certificatecompletion-icon"
+                                    alt=""
+                                    src="./public/vector.svg"
+                                  />
+                                </div>
+                                <div class="videos-on-how-container">
+                                  <p class="videos-on-how">
+                                    +3Videos on how to get
+                                  </p>
+                                  <p class="a-cool-order">a cool order fast</p>
+                                </div>
+                              </div>
+                            </div>
+                            <div class="videos-fast-orders">
+                              <div class="professionalvideolecture1">
+                                <img
+                                  class="accesstosharedchat-icon"
+                                  alt=""
+                                  src="./public/vector.svg"
+                                />
+                              </div>
+                              <div class="videos-on-how-container1">
+                                <p class="videos-on-how1">
+                                  +2 Videos on how to work
+                                </p>
+                                <p class="with-clients">with clients</p>
+                              </div>
+                            </div>
+                          </div>
+                          <div class="certificatecompletion1">
+                            <img
+                              class="videosgetcoolorderfast-icon"
+                              alt=""
+                              src="./public/vector.svg"
+                            />
+
+                            <div class="videosworkclients">
+                              <div class="personal-call-with">
+                                +1 personal call with me
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div class="professional-packet-deal">
+                  <div class="wrapper-cta">
+                    <img
+                      class="cta-icon"
+                      loading="lazy"
+                      alt=""
+                      src="./public/cta.svg"
+                    />
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="mentoring-support1">
+              <img class="vector-icon6" alt="" src="./public/vector-12.svg" />
+
+              <img class="vector-icon7" alt="" src="./public/vector.svg" />
+
+              <div class="frames-skills1">
+                <div class="frames-skills-child"></div>
+                <div class="frames-skills2">
+                  <div class="frames-skills3">
+                    <div class="professional-packet">
+                      <h2 class="professional1">Professional</h2>
+                      <div class="special-third-packet">
+                        Special Third packet
+                      </div>
+                    </div>
+                    <div class="frames-skills4"></div>
+                  </div>
+                </div>
+                <div class="shared-chat-access">
+                  <div class="monthly-material-access">$700</div>
+                </div>
+                <div class="certificate-completion4">
+                  <div class="contact-me-frame">
+                    <div class="vector-content">
+                      <img
+                        class="fast-order-videos1"
+                        alt=""
+                        src="./public/vector.svg"
+                      />
+
+                      <div class="client-work-videos1">
+                        <div class="video-lecture3">15 video lecture</div>
+                      </div>
+                    </div>
+                    <div class="frames-skills5">
+                      <img
+                        class="personal-call-support"
+                        alt=""
+                        src="./public/vector.svg"
+                      />
+
+                      <div class="mentoring-support2">
+                        <div class="access-to-shared3">
+                          Access to shared chat
+                        </div>
+                      </div>
+                    </div>
+                    <div class="c-t-a-button">
+                      <div class="package-content2">
+                        <div class="package-content3">
+                          <img
+                            class="parent-support-icon"
+                            alt=""
+                            src="./public/vector.svg"
+                          />
+                        </div>
+                        <div class="access-to-material-container3">
+                          <p class="access-to-material3">
+                            Access to material for
+                          </p>
+                          <p class="months3">3 months</p>
+                        </div>
+                      </div>
+                    </div>
+                    <div class="material-access">
+                      <div class="video-lecture-access">
+                        <img
+                          class="shared-chat-access1"
+                          alt=""
+                          src="./public/vector.svg"
+                        />
+
+                        <div class="monthly-material-access1">
+                          <div class="certificate-completion5">
+                            Certificate completion
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                    <div class="client-work-videos2">
+                      <div class="client-work-videos3">
+                        <img
+                          class="personal-call-icon"
+                          alt=""
+                          src="./public/vector.svg"
+                        />
+                      </div>
+                      <div class="videos-on-how-container2">
+                        <p class="videos-on-how2">+3Videos on how to get</p>
+                        <p class="a-cool-order1">a cool order fast</p>
+                      </div>
+                    </div>
+                    <div class="buy-now-c-t-a">
+                      <div class="buy-now2">
+                        <img
+                          class="payment-selection-icon"
+                          alt=""
+                          src="./public/vector.svg"
+                        />
+                      </div>
+                      <div class="videos-on-how-container3">
+                        <p class="videos-on-how3">+2 Videos on how to work</p>
+                        <p class="with-clients1">with clients</p>
+                      </div>
+                    </div>
+                    <div class="contact-me1">
+                      <img
+                        class="logos-and-skills"
+                        alt=""
+                        src="./public/vector.svg"
+                      />
+
+                      <div class="select-method">
+                        <div class="personal-call-with1">
+                          +1 personal call with me
+                        </div>
+                      </div>
+                    </div>
+                    <div class="checking-frame-parent">
+                      <img
+                        class="checking-frame-icon"
+                        alt=""
+                        src="./public/vector.svg"
+                      />
+
+                      <div class="mentoring-vector">
+                        <div class="mentoring-support3">+Mentoring Support</div>
+                      </div>
+                    </div>
+                    <div class="mentoring-support-rectangle">
+                      <img class="c-t-a" alt="" src="./public/vector.svg" />
+
+                      <div class="payment-method">
+                        <div class="checking-homework">+Checking Homework</div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div class="call-to-action-frame">
+                  <button class="cta3">
+                    <b class="buy-now3">Buy Now </b>
+                  </button>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="skills-logos-frame"></div>
+        <div class="rectangle">
+          <div class="select-payment-method-frame">
+            <div class="select-payment-method-wrapper">
+              <h1 class="select-payment-method">Select Payment Method</h1>
+            </div>
+            <img
+              class="image-7-icon"
+              loading="lazy"
+              alt=""
+              src="./public/image-7@2x.png"
+            />
+          </div>
+        </div>
+      </section>
+      <section class="rectangle-frame">
+        <div class="c-t-a1"></div>
+        <div class="rectangle1">
+          <h1 class="contact-me2">Contact Me</h1>
+        </div>
+      </section>
+      <div class="skill-icons-instagram-vector">
+        <img
+          class="skill-iconsinstagram1"
+          alt=""
+          src="./public/skilliconsinstagram-1.svg"
+        />
+
+        <img
+          class="logos-linkedin-skilliconstwitt"
+          alt=""
+          src="./public/vector-23.svg"
+        />
+
+        <img
+          class="logoslinkedin-icon"
+          loading="lazy"
+          alt=""
+          src="./public/logoslinkedin.svg"
+        />
+
+        <img
+          class="skill-iconstwitter"
+          loading="lazy"
+          alt=""
+          src="./public/skilliconstwitter.svg"
+        />
+
+
+.logo-section-child {
+  height: 92px;
+  width: 1440px;
+  position: relative;
+  background-color: var(--color-darkturquoise);
+  display: none;
+  max-width: 100%;
+}
+.xyz1234 {
+  position: relative;
+  font-weight: 500;
+  z-index: 1;
+}
+.xyz1234-wrapper {
+  height: 32px;
+  width: 174px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0;
+  box-sizing: border-box;
+}
+.main-about-contact {
+  width: 366px;
+  position: relative;
+  font-weight: 500;
+  white-space: pre-wrap;
+  display: inline-block;
+  flex-shrink: 0;
+  z-index: 1;
+}
+.main-about-contact-price-wrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 0 var(--padding-11xs);
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.ant-designlinkedin-outlined-icon,
+.mdiinstagram-icon,
+.mingcutefacebook-fill-icon {
+  height: 40px;
+  width: 40px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  min-height: 40px;
+  z-index: 1;
+}
+.mdiinstagram-parent {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 0 28px;
+}
+.c-t-a-container,
+.logo-section {
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.logo-section {
+  flex: 1;
+  background-color: var(--color-darkturquoise);
+  align-items: flex-end;
+  justify-content: space-between;
+  padding: var(--padding-4xl) var(--padding-57xl) var(--padding-10xl) 78px;
+  gap: var(--gap-xl);
+  text-align: left;
+  font-size: var(--font-size-6xl);
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}
+.c-t-a-container {
+  align-self: stretch;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 0 var(--padding-35xl);
+  top: 0;
+  z-index: 99;
+  position: sticky;
+}
+.edit-like-a {
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  text-transform: uppercase;
+  font-weight: 700;
+  font-family: inherit;
+}
+.edit-like-a-pro-wrapper {
+  width: 631px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-end;
+  max-width: 100%;
+}
+.and-make-money {
+  margin: 0;
+  width: 608px;
+  position: relative;
+  font-size: inherit;
+  font-weight: 700;
+  font-family: inherit;
+  display: inline-block;
+  flex-shrink: 0;
+  max-width: 100%;
+}
+.and-make-money-wrapper {
+  width: 665px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-end;
+  max-width: 100%;
+}
+.this-is-an {
+  width: 881px;
+  position: relative;
+  font-size: var(--font-size-6xl);
+  text-align: center;
+  display: inline-block;
+}
+.accesstosharedchat,
+.special-secondpacket {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 43px 0;
+  max-width: 100%;
+}
+.special-secondpacket {
+  gap: 20px 0;
+}
+.order {
+  position: relative;
+  font-size: var(--font-size-13xl);
+  font-family: var(--font-montserrat);
+  color: var(--color-black);
+  text-align: center;
+}
+.cta {
+  cursor: pointer;
+  border: 2px solid var(--color-black);
+  padding: var(--padding-lg) 75px var(--padding-lg) 74px;
+  background-color: var(--color-darkturquoise);
+  border-radius: var(--br-21xl);
+  box-shadow: 0 4px 30px rgba(168, 255, 53, 0.3);
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
+.cta1:hover,
+.cta2:hover,
+.cta3:hover,
+.cta:hover {
+  background-color: var(--color-lightseagreen);
+  border: 2px solid var(--color-darkslategray-100);
+  box-sizing: border-box;
+}
+.order-from-here {
+  width: 145px;
+  position: absolute;
+  margin: 0 !important;
+  top: -59.01px;
+  right: -102.41px;
+  display: inline-block;
+  transform: rotate(11.76deg);
+  transform-origin: 0 0;
+}
+.akar-iconsarrow-back {
+  height: 40px;
+  width: 70px;
+  position: relative;
+  border-radius: var(--br-base);
+  overflow: hidden;
+  flex-shrink: 0;
+  z-index: 1;
+}
+.buy-now,
+.order-from-here-parent {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.order-from-here-parent {
+  flex-direction: row;
+  position: relative;
+}
+.buy-now {
+  flex-direction: column;
+  padding: 0 0 var(--padding-5xs);
+}
+.cta-parent,
+.videosonhowtoworkwithclients {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: flex-start;
+}
+.videosonhowtoworkwithclients {
+  width: 415px;
+  align-items: flex-start;
+  justify-content: flex-end;
+  max-width: 100%;
+  text-align: center;
+  font-size: 23px;
+  font-family: var(--font-montserrat);
+}
+.professional,
+.professional-wrapper {
+  display: flex;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.professional {
+  flex-direction: column;
+  align-items: center;
+  gap: 78px 0;
+  flex-shrink: 0;
+}
+.professional-wrapper {
+  width: 978px;
+  flex-direction: row;
+  align-items: flex-start;
+  padding: 0 var(--padding-xl) 84px;
+  box-sizing: border-box;
+  text-align: left;
+  font-size: var(--font-size-53xl);
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}
+.frame-child {
+  align-self: stretch;
+  flex: 1;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: contain;
+}
+.frame-wrapper {
+  height: 85px;
+  width: 351px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-9xs) 0 0;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.vscode-iconsfile-type-photosh {
+  height: 44px;
+  width: 44px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.photoshop {
+  position: relative;
+}
+.photoshop-wrapper {
+  height: 32px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-15xl) 0 0;
+  box-sizing: border-box;
+}
+.makicross-icon,
+.makicross-icon1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 32px;
+  height: 32px;
+  overflow: hidden;
+}
+.makicross-icon1 {
+  height: 32.4px;
+  object-fit: contain;
+  z-index: 1;
+}
+.makicross-parent {
+  height: 32px;
+  width: 32px;
+  position: relative;
+}
+.vscode-iconsfile-type-photosh-parent {
+  background-color: var(--color-white);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25), 7px 7px 5px rgba(0, 0, 0, 0.5);
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  padding: var(--padding-xl) var(--padding-15xl) var(--padding-base)
+    var(--padding-4xl);
+  box-sizing: border-box;
+  gap: 0 29px;
+  max-width: 100%;
+}
+.logosadobe-after-effects-icon {
+  height: 40px;
+  width: 44px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.after-effects {
+  align-self: stretch;
+  position: relative;
+  font-size: var(--font-size-6xl);
+  font-family: var(--font-roboto);
+  color: #66e4e4;
+  text-align: center;
+}
+.after-effects-wrapper {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-sm) 0 0;
+  box-sizing: border-box;
+  min-width: 114px;
+}
+.makicross-icon2 {
+  width: 32px;
+  height: 32px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.makicross-wrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-9xs) 0 0;
+}
+.logosadobe-after-effects-parent {
+  cursor: pointer;
+  border: 0;
+  padding: var(--padding-xl) var(--padding-15xl) var(--padding-xl)
+    var(--padding-16xl);
+  background-color: var(--color-white);
+  align-self: stretch;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25), 7px 7px 5px rgba(0, 0, 0, 0.5);
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  gap: 0 15px;
+}
+.frame-container {
+  width: 350px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-11xs) 0 0;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.frame-parent,
+.parent-a-top-inner {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  max-width: 100%;
+}
+.frame-parent {
+  flex: 1;
+  justify-content: space-between;
+  gap: var(--gap-xl);
+}
+.parent-a-top-inner {
+  width: 1274px;
+  justify-content: flex-start;
+  padding: 0 0 var(--padding-xs) var(--padding-10xl);
+  box-sizing: border-box;
+  text-align: center;
+  font-size: var(--font-size-6xl);
+  color: #04383f;
+  font-family: var(--font-roboto);
+}
+.video-deals {
+  align-self: stretch;
+  height: 3px;
+  position: relative;
+  background-color: var(--color-gainsboro);
+}
+.details-of-users {
+  margin: 0;
+  height: 49px;
+  position: relative;
+  font-size: inherit;
+  letter-spacing: 0.07em;
+  font-weight: 700;
+  font-family: inherit;
+  display: inline-block;
+}
+.instruction-frame {
+  align-self: stretch;
+  height: 5px;
+  position: relative;
+  background-color: var(--color-black);
+}
+.header-frame,
+.payment-frame {
+  display: flex;
+  align-items: flex-start;
+  max-width: 100%;
+}
+.payment-frame {
+  width: 371px;
+  flex-direction: column;
+  justify-content: flex-start;
+  gap: 15px 0;
+}
+.header-frame {
+  width: 544px;
+  flex-direction: row;
+  justify-content: flex-end;
+  padding: 0 0 var(--padding-29xl);
+  box-sizing: border-box;
+}
+.name- {
+  width: 156px;
+  border: 0;
+  outline: 0;
+  font-weight: 500;
+  font-family: var(--font-montserrat);
+  font-size: var(--font-size-16xl);
+  background-color: transparent;
+  height: 43px;
+  position: relative;
+  letter-spacing: 0.07em;
+  color: var(--color-black);
+  text-align: center;
+  display: inline-block;
+}
+.mentor-rectangle {
+  height: 78px;
+  width: 650px;
+  position: relative;
+  border-radius: var(--br-mini);
+  background-color: var(--color-gainsboro);
+  border: 1px solid var(--color-black);
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.mentoring-session {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: space-between;
+  max-width: 100%;
+  gap: var(--gap-xl);
+}
+.contact-number- {
+  width: 372px;
+  border: 0;
+  outline: 0;
+  font-weight: 500;
+  font-family: var(--font-montserrat);
+  font-size: var(--font-size-16xl);
+  background-color: transparent;
+  height: 43px;
+  position: relative;
+  letter-spacing: 0.07em;
+  color: var(--color-black);
+  text-align: center;
+  display: inline-block;
+  max-width: 100%;
+}
+.mentoring-session-child {
+  height: 78px;
+  flex: 1;
+  position: relative;
+  border-radius: var(--br-mini);
+  background-color: var(--color-gainsboro);
+  border: 1px solid var(--color-black);
+  box-sizing: border-box;
+  min-width: 426px;
+  max-width: 100%;
+}
+.membership-text,
+.mentoring-session1,
+.vector-scaling {
+  display: flex;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.mentoring-session1 {
+  align-self: stretch;
+  flex-direction: row;
+  flex-wrap: wrap;
+  align-items: flex-end;
+  gap: 0 42px;
+}
+.membership-text,
+.vector-scaling {
+  align-items: flex-start;
+}
+.vector-scaling {
+  flex: 1;
+  flex-direction: column;
+  gap: 46px 0;
+}
+.membership-text {
+  align-self: stretch;
+  flex-direction: row;
+  padding: 0 0 0 var(--padding-10xs);
+  box-sizing: border-box;
+}
+.company-logos {
+  border: 1px solid var(--color-black);
+  background-color: var(--color-gainsboro);
+  height: 231px;
+  width: 655px;
+  outline: 0;
+  position: absolute;
+  top: 144px;
+  left: 417px;
+  border-radius: var(--br-mini);
+  box-sizing: border-box;
+}
+.email-id- {
+  height: 43px;
+  display: inline-block;
+}
+.address-,
+.email-id- {
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  letter-spacing: 0.07em;
+  font-weight: 500;
+  font-family: inherit;
+}
+.instagram-tag {
+  position: absolute;
+  top: 17px;
+  left: 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 100px 0;
+}
+.twitter-tag-child {
+  align-self: stretch;
+  height: 78px;
+  position: relative;
+  border-radius: var(--br-mini);
+  background-color: var(--color-gainsboro);
+  border: 1px solid var(--color-black);
+  box-sizing: border-box;
+}
+.send-us {
+  position: relative;
+  font-size: var(--font-size-13xl);
+  font-family: var(--font-montserrat);
+  color: var(--color-black);
+  text-align: center;
+}
+.cta1,
+.twitter-tag {
+  display: flex;
+  max-width: 100%;
+}
+.cta1 {
+  cursor: pointer;
+  border: 1px solid var(--color-black);
+  padding: var(--padding-11xl) var(--padding-2xl) var(--padding-12xl)
+    var(--padding-xl);
+  background-color: var(--color-darkturquoise);
+  width: 377px;
+  border-radius: 78px;
+  box-shadow: 0 4px 30px rgba(168, 255, 53, 0.3);
+  box-sizing: border-box;
+  overflow: hidden;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  white-space: nowrap;
+}
+.cta1:hover,
+.cta2:hover,
+.cta3:hover {
+  border: 1px solid var(--color-darkslategray-100);
+}
+.twitter-tag {
+  position: absolute;
+  top: 0;
+  left: 417px;
+  width: 655px;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 393px 0;
+}
+.homework-review {
+  align-self: stretch;
+  height: 571px;
+  position: relative;
+  max-width: 100%;
+  font-size: var(--font-size-16xl);
+}
+.frame-button,
+.icon-set,
+.video-deals-parent {
+  display: flex;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.icon-set {
+  flex: 1;
+  flex-direction: column;
+  align-items: center;
+  gap: 46px 0;
+}
+.frame-button,
+.video-deals-parent {
+  align-items: flex-start;
+}
+.frame-button {
+  width: 1224px;
+  flex-direction: row;
+  padding: 0 var(--padding-57xl);
+  box-sizing: border-box;
+}
+.video-deals-parent {
+  margin-left: 2px;
+  align-self: stretch;
+  flex-direction: column;
+  gap: 30px 0;
+  text-align: center;
+  font-size: 40px;
+  color: var(--color-black);
+  font-family: var(--font-montserrat);
+}
+.video-lecture-container {
+  align-self: stretch;
+  height: 3px;
+  position: relative;
+  background-color: var(--color-gainsboro);
+}
+.who {
+  margin: 0;
+}
+.i1 {
+  letter-spacing: -0.18em;
+  line-height: 122.22%;
+  font-weight: 500;
+  font-family: var(--font-montserrat);
+}
+.i,
+.span {
+  color: var(--color-darkred);
+}
+.span1 {
+  color: var(--color-black);
+}
+.b {
+  font-family: var(--font-montserrat);
+}
+.span3 {
+  font-size: var(--font-size-6xl);
+  font-family: var(--font-roboto);
+}
+.span2 {
+  color: var(--color-black);
+}
+.am-i {
+  margin: 0;
+}
+.who-am-i-container {
+  width: 285px;
+  position: relative;
+  display: inline-block;
+  flex-shrink: 0;
+}
+.c-t-a-frame {
+  width: 449px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 0 var(--padding-xl);
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.image-1-icon {
+  width: 386px;
+  height: 458px;
+  position: absolute;
+  margin: 0 !important;
+  right: 130px;
+  bottom: -329px;
+  object-fit: cover;
+  z-index: 1;
+}
+.video-lecture-container-parent {
+  margin-left: -2px;
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 0 var(--padding-9xl);
+  box-sizing: border-box;
+  position: relative;
+  gap: 49px 0;
+  max-width: 100%;
+  text-align: center;
+  font-size: var(--font-size-53xl);
+  color: var(--color-black);
+  font-family: var(--font-montserrat);
+}
+.as-you-know,
+.i-am-a {
+  margin-block-start: 0;
+  margin-block-end: 17px;
+}
+.i-make-quality {
+  margin: 0;
+}
+.as-you-know-container {
+  flex: 1;
+  position: relative;
+  letter-spacing: 0.06em;
+  line-height: 23px;
+  display: inline-block;
+  max-width: 100%;
+}
+.special-packets {
+  width: 1298px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 0 209px var(--padding-8xs);
+  box-sizing: border-box;
+  max-width: 100%;
+  text-align: left;
+  font-size: var(--font-size-7xl);
+  color: var(--color-black);
+  font-family: var(--font-montserrat);
+}
+.p {
+  margin: 0;
+}
+.social-media-audiance {
+  margin: 0;
+  font-size: var(--font-size-11xl);
+  font-family: var(--font-montserrat);
+}
+.social-media-audiance-container {
+  height: 95px;
+  position: relative;
+  display: inline-block;
+}
+.skill-iconsinstagram {
+  height: 45px;
+  width: 45px;
+  position: absolute;
+  margin: 0 !important;
+  top: 18px;
+  left: 11px;
+  overflow: hidden;
+  flex-shrink: 0;
+  z-index: 1;
+}
+.certificate-completion {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+  max-width: 100%;
+}
+.emojionecamera-icon {
+  height: 50px;
+  width: 50px;
+  position: absolute;
+  margin: 0 !important;
+  top: 7px;
+  left: 0;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.videos {
+  margin: 0;
+}
+.edit-by-me {
+  margin: 0;
+  font-size: var(--font-size-11xl);
+}
+.videos-edit-by-container {
+  height: 113px;
+  position: relative;
+  display: inline-block;
+}
+.mentoring-support-frame {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-end;
+  position: relative;
+}
+.personal-call-frame {
+  width: 316px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-9xs) 0 0;
+  box-sizing: border-box;
+}
+.fluent-emojieye-icon {
+  height: 55px;
+  width: 55px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  z-index: 1;
+}
+.views {
+  margin: 0;
+}
+.collected-my-videos {
+  margin: 0;
+  font-size: var(--font-size-11xl);
+}
+.views-collected-my-container {
+  flex: 1;
+  position: relative;
+}
+.contact-me-frame,
+.instagram-logo {
+  display: flex;
+  align-items: flex-start;
+}
+.instagram-logo {
+  height: 96px;
+  flex-direction: column;
+  justify-content: flex-start;
+  padding: var(--padding-3xs) 0 0;
+  box-sizing: border-box;
+}
+.contact-me-frame {
+  flex-direction: row;
+  justify-content: center;
+  row-gap: 20px;
+}
+.payment-method-selection {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-sm) 0 0;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.frame-with-access,
+.monthly-subscription {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  max-width: 100%;
+}
+.monthly-subscription {
+  flex: 1;
+  justify-content: space-between;
+  gap: var(--gap-xl);
+}
+.frame-with-access {
+  width: 1310px;
+  justify-content: flex-start;
+  padding: 0 var(--padding-26xl) var(--padding-6xs) var(--padding-xl);
+  box-sizing: border-box;
+  text-align: center;
+  font-size: var(--font-size-23xl);
+  color: var(--color-black);
+  font-family: var(--font-monda);
+}
+.parent-video-lectures {
+  align-self: stretch;
+  height: 3px;
+  position: relative;
+  background-color: var(--color-gainsboro);
+}
+.what-awaits-you {
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  font-weight: 700;
+  font-family: inherit;
+}
+.certificate {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-xl) 0 var(--padding-mini);
+}
+.client-support-videos {
+  align-self: stretch;
+  height: 5px;
+  position: relative;
+  background-color: var(--color-black);
+}
+.access-period,
+.child-video,
+.twitter-logo {
+  display: flex;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.access-period {
+  flex: 1;
+  flex-direction: column;
+  align-items: center;
+  gap: 8px 0;
+}
+.child-video,
+.twitter-logo {
+  box-sizing: border-box;
+}
+.child-video {
+  width: 672px;
+  flex-direction: row;
+  align-items: flex-start;
+  padding: 0 var(--padding-11xs) 0 0;
+}
+.twitter-logo {
+  margin-left: 2px;
+  align-self: stretch;
+  flex-direction: column;
+  align-items: center;
+  padding: 0 0 60px;
+  gap: 84px 0;
+  text-align: center;
+  font-size: var(--font-size-53xl);
+  color: var(--color-black);
+  font-family: var(--font-montserrat);
+}
+.for-home {
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  font-weight: 500;
+  font-family: inherit;
+}
+.contact-info {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 0 0 var(--padding-10xs);
+}
+.emojionecamera-icon1 {
+  height: 100px;
+  flex: 1;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+}
+.skilliconstwitter {
+  width: 175px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-19xl) 0 0;
+  box-sizing: border-box;
+}
+.is-an-intensive {
+  margin: 0;
+  white-space: pre-wrap;
+}
+.editing-and-graphic,
+.mastering-professional-video {
+  margin: 0;
+}
+.is-an-intensive-container {
+  width: 287px;
+  height: 151px;
+  position: relative;
+  display: inline-block;
+  flex-shrink: 0;
+}
+.vector-logos-linkedin {
+  align-items: center;
+  gap: 52px 0;
+  font-size: var(--font-size-lg);
+}
+.check-homework,
+.plate-1,
+.vector-logos-linkedin {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+.plate-1 {
+  border-radius: var(--br-base);
+  background-color: var(--color-gray-100);
+  box-shadow: 0 7px 15px rgba(0, 0, 0, 0.15);
+  overflow: hidden;
+  align-items: center;
+  padding: var(--padding-base) var(--padding-16xl) var(--padding-10xl)
+    var(--padding-26xl);
+  gap: 76px 0;
+}
+.check-homework {
+  align-items: flex-start;
+  padding: var(--padding-11xs) 0 0;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.what-it-gives {
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  font-weight: 500;
+  font-family: inherit;
+}
+.what-it-gives-wrapper {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-xl) 0 var(--padding-35xl);
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.emojionerocket-icon {
+  height: 100%;
+  width: 100%;
+  position: absolute;
+  margin: 0 !important;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.vector-speed-line {
+  height: 7.3px;
+  width: 9.2px;
+  position: relative;
+  z-index: 1;
+}
+.emojionerocket-parent {
+  height: 142px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-28xl) 107px var(--padding-28xl) 71px;
+  box-sizing: border-box;
+  position: relative;
+}
+.this-course-offers,
+.unique-opportunity-to {
+  margin: 0;
+}
+.fascinating-world {
+  margin: 0;
+  white-space: pre-wrap;
+}
+.this-course-offers-container {
+  margin-left: -3px;
+  width: 461px;
+  position: relative;
+  font-size: var(--font-size-lg);
+  display: inline-block;
+  max-width: 126%;
+  flex-shrink: 0;
+}
+.contact-me,
+.plate-2 {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.plate-2 {
+  align-self: stretch;
+  border-radius: var(--br-base);
+  background-color: var(--color-gray-100);
+  box-shadow: 0 7px 15px rgba(0, 0, 0, 0.15);
+  overflow: hidden;
+  align-items: center;
+  padding: var(--padding-xl) 0 106px;
+  gap: 46px 0;
+}
+.contact-me {
+  flex: 0.9532;
+  align-items: flex-start;
+  padding: 0 var(--padding-lg) 0 0;
+  min-width: 250px;
+}
+.experiences {
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  font-weight: 500;
+  font-family: inherit;
+}
+.image-2-icon {
+  width: 145px;
+  height: 157px;
+  position: relative;
+  object-fit: cover;
+}
+.you-will-have {
+  width: 338px;
+  height: 107px;
+  position: relative;
+  font-size: var(--font-size-lg);
+  white-space: pre-wrap;
+  display: inline-block;
+  flex-shrink: 0;
+  max-width: 100%;
+}
+.plate-3,
+.rectangle-certified-learning {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.plate-3 {
+  align-self: stretch;
+  border-radius: var(--br-base);
+  background-color: var(--color-gray-100);
+  box-shadow: 0 7px 15px rgba(0, 0, 0, 0.15);
+  overflow: hidden;
+  align-items: center;
+  padding: 0 0 79px;
+  gap: 40px 0;
+}
+.rectangle-certified-learning {
+  flex: 1;
+  align-items: flex-start;
+  padding: var(--padding-7xs) 0 0;
+  min-width: 253px;
+}
+.mentoring-support,
+.personal-call {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  max-width: 100%;
+}
+.mentoring-support {
+  flex: 1;
+  justify-content: center;
+  gap: 0 69px;
+}
+.personal-call {
+  width: 1300px;
+  justify-content: flex-start;
+  padding: 0 0 var(--padding-5xs) var(--padding-xl);
+  box-sizing: border-box;
+  text-align: center;
+  font-size: var(--font-size-17xl);
+  color: var(--color-black);
+  font-family: var(--font-montserrat);
+}
+.vector-quick-order-videos {
+  align-self: stretch;
+  height: 3px;
+  position: relative;
+  background-color: var(--color-gainsboro);
+}
+.price {
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  font-weight: 700;
+  font-family: inherit;
+}
+.c-t-a-upgrade-button {
+  align-self: stretch;
+  height: 4px;
+  position: relative;
+  background-color: var(--color-black);
+  z-index: 1;
+}
+.frame-client-interaction-tips,
+.rectangle-professional-growth {
+  width: 177px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.frame-client-interaction-tips {
+  width: 262px;
+  flex-direction: row;
+  justify-content: flex-end;
+  padding: 0 var(--padding-xl);
+  box-sizing: border-box;
+}
+.frame-monthly-materials {
+  margin-left: -2px;
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  padding: 0 0 40px;
+  gap: 74px 0;
+  text-align: center;
+  font-size: var(--font-size-41xl);
+  color: var(--color-black);
+  font-family: var(--font-montserrat);
+}
+.vector-icon,
+.vector-icon1 {
+  width: 24.7px;
+  height: 23.4px;
+  position: relative;
+  display: none;
+}
+.text-node-payment-method-label {
+  height: 1px;
+  width: 237px;
+  position: absolute;
+  margin: 0 !important;
+  top: 101px;
+  left: -2px;
+  background-color: var(--color-gainsboro);
+  z-index: 1;
+}
+.image-node-logo-showcase-child {
+  width: 377px;
+  height: 1044px;
+  position: relative;
+  border-radius: var(--br-19xl);
+  background-color: var(--color-gainsboro);
+  display: none;
+  max-width: 100%;
+}
+.standart {
+  margin: 0;
+  font-size: inherit;
+  font-weight: 500;
+  font-family: inherit;
+}
+.logos-group,
+.special-first-packet,
+.standart {
+  position: relative;
+  z-index: 1;
+}
+.logos-group {
+  align-self: stretch;
+  height: 1px;
+  background-color: var(--color-black);
+}
+.payment-method-options,
+.special-first-packet-parent {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.special-first-packet-parent {
+  align-self: stretch;
+  gap: 22px 0;
+  font-size: var(--font-size-3xl);
+}
+.payment-method-options {
+  width: 231px;
+  gap: 16px 0;
+}
+.div {
+  position: relative;
+  font-weight: 500;
+  white-space: nowrap;
+  z-index: 1;
+}
+.wrapper {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-14xl) 0 0;
+}
+.videolecture-icon {
+  height: 23.4px;
+  width: 24.7px;
+}
+.video-lecture,
+.video-lecture1,
+.videolecture-icon {
+  position: relative;
+  z-index: 1;
+}
+.video-lecture1 {
+  z-index: 2;
+  margin-left: -154px;
+}
+.video-lecture-parent {
+  flex-direction: row;
+  align-items: flex-start;
+}
+.accesstosharedchat1,
+.video-lecture-parent,
+.videos-group {
+  display: flex;
+  justify-content: flex-start;
+}
+.accesstosharedchat1 {
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 0 0 var(--padding-7xs);
+}
+.videos-group {
+  flex-direction: row;
+  align-items: flex-end;
+  gap: 0 24px;
+}
+.vector-icon2 {
+  height: 23.4px;
+  width: 24.7px;
+}
+.access-to-shared,
+.vector-icon2 {
+  position: relative;
+  z-index: 1;
+}
+.access-to-shared1 {
+  position: relative;
+  z-index: 2;
+  margin-left: -223px;
+}
+.access-to-shared-chat-parent,
+.videos-group-inner {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.access-to-shared-chat-parent {
+  align-self: stretch;
+  flex-direction: row;
+}
+.videos-group-inner {
+  flex: 1;
+  flex-direction: column;
+  padding: 0 0 var(--padding-7xs);
+  box-sizing: border-box;
+  min-width: 145px;
+}
+.certificatecompletion,
+.videos-group1 {
+  align-self: stretch;
+  display: flex;
+  justify-content: flex-start;
+}
+.videos-group1 {
+  flex-direction: row;
+  flex-wrap: wrap;
+  align-items: flex-end;
+  gap: 0 13px;
+}
+.certificatecompletion {
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 9px 0;
+}
+.vector-icon3 {
+  height: 23.4px;
+  width: 24.7px;
+  position: relative;
+  z-index: 1;
+}
+.access-to-material,
+.months {
+  margin: 0;
+}
+.access-to-material-container {
+  position: relative;
+  z-index: 1;
+}
+.access-to-material1,
+.months1 {
+  margin: 0;
+}
+.access-to-material-container1 {
+  position: relative;
+  z-index: 2;
+  margin-top: -48px;
+}
+.personal-call-icon-group {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  min-width: 143px;
+}
+.certificatecompletion-parent,
+.vector-parent {
+  align-self: stretch;
+  display: flex;
+  justify-content: flex-start;
+}
+.vector-parent {
+  flex-direction: row;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 0 20px;
+  text-align: left;
+}
+.certificatecompletion-parent {
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 20px 0;
+}
+.vector-icon4 {
+  height: 23.4px;
+  width: 24.7px;
+}
+.certificate-completion1,
+.vector-icon4 {
+  position: relative;
+  z-index: 1;
+}
+.frame-div,
+.frame-group,
+.vector-group {
+  display: flex;
+  justify-content: flex-start;
+}
+.vector-group {
+  align-self: stretch;
+  flex-direction: row;
+  align-items: flex-start;
+  gap: 0 16px;
+}
+.frame-div,
+.frame-group {
+  flex-direction: column;
+}
+.frame-div {
+  align-self: stretch;
+  align-items: flex-start;
+  gap: 26px 0;
+  font-size: var(--font-size-xl);
+}
+.frame-group {
+  flex: 1;
+  align-items: center;
+  gap: 58px 0;
+}
+.image-node-logo-showcase-inner {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-16xl) 362px;
+  font-size: var(--font-size-45xl);
+}
+.buy-now1 {
+  position: relative;
+  font-size: var(--font-size-13xl);
+  font-family: var(--font-montserrat);
+  color: var(--color-black);
+  text-align: center;
+}
+.cta2,
+.vector {
+  display: flex;
+  flex-direction: row;
+}
+.cta2 {
+  cursor: pointer;
+  border: 2px solid var(--color-black);
+  padding: var(--padding-lg) var(--padding-29xl) var(--padding-lg)
+    var(--padding-28xl);
+  background-color: var(--color-darkturquoise);
+  border-radius: var(--br-21xl);
+  box-shadow: 0 4px 30px rgba(168, 255, 53, 0.3);
+  overflow: hidden;
+  align-items: center;
+  justify-content: center;
+  white-space: nowrap;
+  z-index: 1;
+}
+.cta2:hover,
+.cta3:hover {
+  border: 2px solid var(--color-darkslategray-100);
+}
+.vector {
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-8xl);
+}
+.image-node-logo-showcase,
+.rectangle-professional-icon-ro {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.image-node-logo-showcase {
+  flex: 1;
+  border-radius: var(--br-19xl);
+  background-color: var(--color-gainsboro);
+  flex-direction: column;
+  padding: var(--padding-12xs) var(--padding-14xl) 80px var(--padding-9xs);
+  box-sizing: border-box;
+  gap: 47px 0;
+}
+.rectangle-professional-icon-ro {
+  align-self: stretch;
+  flex-direction: row;
+  position: relative;
+}
+.frame-mentor-support-details {
+  width: 377px;
+  flex-shrink: 0;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-lg) 0 0;
+  box-sizing: border-box;
+}
+.child-frame-child {
+  width: 377px;
+  height: 1044px;
+  position: relative;
+  border-radius: var(--br-19xl);
+  background-color: var(--color-gainsboro);
+  display: none;
+  max-width: 100%;
+}
+.advance {
+  margin: 0;
+  font-size: inherit;
+  font-weight: 500;
+  font-family: inherit;
+}
+.advance,
+.special-second-packet {
+  position: relative;
+  z-index: 1;
+}
+.special-second-packet-wrapper {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 0 var(--padding-mini) var(--padding-11xs);
+  font-size: var(--font-size-3xl);
+}
+.box {
+  height: 1px;
+  flex: 1;
+  position: relative;
+  background-color: var(--color-black);
+  z-index: 1;
+}
+.access,
+.rectangular-shape {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.rectangular-shape {
+  width: 241px;
+  flex-direction: row;
+  padding: 0 var(--padding-8xs);
+  box-sizing: border-box;
+}
+.access {
+  flex-direction: column;
+  gap: 7px 0;
+}
+.description-text {
+  position: relative;
+  font-weight: 500;
+  white-space: nowrap;
+  z-index: 1;
+}
+.lecture-video {
+  flex-direction: row;
+  align-items: flex-start;
+  padding: 0 var(--padding-lg);
+  font-size: var(--font-size-45xl);
+}
+.access-parent,
+.lecture-video,
+.vector-icon5 {
+  display: flex;
+  justify-content: flex-start;
+}
+.access-parent {
+  flex-direction: column;
+  align-items: flex-end;
+  gap: 41px 0;
+}
+.vector-icon5 {
+  align-self: stretch;
+  flex-direction: row;
+  align-items: flex-start;
+}
+.vector-icon6 {
+  height: 23.4px;
+  width: 24.7px;
+}
+.vector-icon6,
+.video-lecture2 {
+  position: relative;
+  z-index: 1;
+}
+.lecture-materials,
+.vector-icon-lecture {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+}
+.vector-icon-lecture {
+  align-items: flex-end;
+  gap: 0 20px;
+}
+.lecture-materials {
+  align-items: flex-start;
+  padding: 0 var(--padding-10xs);
+}
+.fast-order-videos {
+  height: 23.4px;
+  width: 24.7px;
+}
+.access-to-shared2,
+.fast-order-videos {
+  position: relative;
+  z-index: 1;
+}
+.client-work-videos {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 0 var(--padding-10xs);
+}
+.certificate-completion2,
+.material-access-months {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+}
+.certificate-completion2 {
+  align-items: flex-end;
+  gap: 0 13px;
+}
+.material-access-months {
+  align-items: flex-start;
+  padding: 0 var(--padding-10xs);
+}
+.vector-icon-access {
+  width: 24.7px;
+  height: 23.4px;
+  position: relative;
+  z-index: 1;
+}
+.package-content1 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 0 var(--padding-7xs);
+}
+.access-to-material2,
+.months2 {
+  margin: 0;
+}
+.access-to-material-container2 {
+  position: relative;
+  z-index: 1;
+}
+.certificate-completion-vid,
+.package-content {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+}
+.package-content {
+  align-items: flex-end;
+  gap: 0 20px;
+}
+.certificate-completion-vid {
+  align-items: flex-start;
+  padding: 0 var(--padding-10xs);
+}
+.checking-homework-icon {
+  height: 23.4px;
+  width: 24.7px;
+}
+.certificate-completion3,
+.checking-homework-icon {
+  position: relative;
+  z-index: 1;
+}
+.mentoring-support-nodes {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: flex-start;
+  gap: 0 13px;
+}
+.mentoring-support-nodes-wrapper {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-10xs);
+  text-align: center;
+}
+.certificatecompletion-icon {
+  width: 24.7px;
+  height: 23.4px;
+  position: relative;
+  z-index: 1;
+}
+.accessmaterialformonths {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 0 var(--padding-6xs);
+}
+.a-cool-order,
+.videos-on-how {
+  margin: 0;
+}
+.videos-on-how-container {
+  position: relative;
+  z-index: 1;
+}
+.accesstosharedchat2,
+.professionalvideolecture {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+}
+.accesstosharedchat2 {
+  align-items: center;
+  gap: 0 20px;
+}
+.professionalvideolecture {
+  align-items: flex-start;
+  padding: 0 var(--padding-10xs);
+}
+.accesstosharedchat-icon {
+  width: 24.7px;
+  height: 23.4px;
+  position: relative;
+  z-index: 1;
+}
+.professionalvideolecture1 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-10xs) 0 0;
+}
+.videos-on-how1,
+.with-clients {
+  margin: 0;
+}
+.videos-on-how-container1 {
+  position: relative;
+  z-index: 1;
+}
+.certificates,
+.videos-fast-orders {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 0 23px;
+}
+.certificates {
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 16px 0;
+}
+.videosgetcoolorderfast-icon {
+  height: 23.4px;
+  width: 24.7px;
+  position: relative;
+  z-index: 1;
+}
+.personal-call-with {
+  position: relative;
+  z-index: 1;
+}
+.videosworkclients {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 0 var(--padding-7xs);
+}
+.certificatecompletion1 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: flex-start;
+  gap: 0 23px;
+}
+.material-months-access {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 27px 0;
+}
+.chat-access-shared,
+.material-months-access,
+.monthly-materials {
+  align-self: stretch;
+  flex-direction: column;
+}
+.monthly-materials {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 21px 0;
+  text-align: left;
+}
+.chat-access-shared {
+  gap: 15px 0;
+}
+.button-node,
+.chat-access-shared,
+.skills-icons {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.skills-icons {
+  flex: 1;
+  flex-direction: column;
+  gap: 23px 0;
+}
+.button-node {
+  align-self: stretch;
+  flex-direction: row;
+  padding: 0 0 154px var(--padding-15xl);
+  font-size: var(--font-size-xl);
+}
+.cta-icon {
+  height: 100%;
+  width: 100%;
+  overflow: hidden;
+  flex-shrink: 0;
+  z-index: 1;
+  object-fit: contain;
+  position: absolute;
+  left: 0;
+  top: 4px;
+  transform: scale(1.8);
+}
+.wrapper-cta {
+  height: 75px;
+  width: 250px;
+  position: relative;
+  border-radius: var(--br-21xl);
+  flex-shrink: 0;
+  z-index: 1;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.professional-packet-deal {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 17px 0 0;
+}
+.button,
+.child-frame {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  box-sizing: border-box;
+}
+.child-frame {
+  align-self: stretch;
+  border-radius: var(--br-19xl);
+  background-color: var(--color-gainsboro);
+  align-items: center;
+  padding: var(--padding-xl) var(--padding-4xs) 70px 25px;
+  gap: 64px 0;
+  max-width: 100%;
+}
+.button {
+  width: 398px;
+  flex-shrink: 0;
+  align-items: flex-start;
+  padding: var(--padding-5xs) var(--padding-2xl) 0 0;
+}
+.vector-icon7,
+.vector-icon8 {
+  height: 23.4px;
+  width: 24.7px;
+  position: absolute;
+  margin: 0 !important;
+  bottom: 8px;
+  left: 60px;
+}
+.vector-icon8 {
+  bottom: 487.6px;
+  left: 72px;
+  z-index: 1;
+}
+.frame-item {
+  width: 377px;
+  height: 1044px;
+  position: relative;
+  border-radius: var(--br-19xl);
+  background-color: var(--color-gainsboro);
+  display: none;
+  max-width: 100%;
+}
+.professional1 {
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  font-weight: 500;
+  font-family: inherit;
+  z-index: 3;
+}
+.special-third-packet {
+  position: relative;
+  font-size: var(--font-size-3xl);
+  z-index: 3;
+}
+.professional-parent {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: flex-start;
+  gap: 7px 0;
+}
+.frame-inner {
+  align-self: stretch;
+  height: 1px;
+  position: relative;
+  background-color: var(--color-black);
+  z-index: 3;
+}
+.frame-parent1,
+.frame-wrapper1 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.frame-parent1 {
+  width: 232px;
+  flex-direction: column;
+  padding: 0 var(--padding-12xs) 0 0;
+  box-sizing: border-box;
+  gap: 22px 0;
+}
+.frame-wrapper1 {
+  align-self: stretch;
+  flex-direction: row;
+  text-align: center;
+}
+.div1 {
+  position: relative;
+  font-weight: 500;
+  white-space: nowrap;
+  z-index: 3;
+}
+.container {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-lg) var(--padding-xs) 0;
+  font-size: var(--font-size-45xl);
+}
+.vector-icon9 {
+  height: 23.4px;
+  width: 24.7px;
+}
+.vector-icon9,
+.video-lecture3 {
+  position: relative;
+  z-index: 3;
+}
+.vector-container,
+.video-lecture-wrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 0 var(--padding-7xs);
+}
+.vector-container {
+  flex-direction: row;
+  align-items: flex-end;
+  padding: 0 0 var(--padding-8xs);
+  gap: 0 23px;
+  text-align: center;
+}
+.vector-icon10 {
+  height: 23.4px;
+  width: 24.7px;
+}
+.access-to-shared3,
+.vector-icon10 {
+  position: relative;
+  z-index: 3;
+}
+.access-to-shared-chat-wrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 0 var(--padding-7xs);
+}
+.vector-parent1 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: flex-start;
+  gap: 0 16px;
+  text-align: center;
+}
+.vector-icon11 {
+  width: 24.7px;
+  height: 23.4px;
+  position: relative;
+  z-index: 3;
+}
+.package-content3 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 0 var(--padding-7xs);
+}
+.access-to-material3,
+.months3 {
+  margin: 0;
+}
+.access-to-material-container3 {
+  position: relative;
+  z-index: 3;
+}
+.package-content-wrapper,
+.package-content2 {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+}
+.package-content2 {
+  align-items: flex-end;
+  gap: 0 20px;
+}
+.package-content-wrapper {
+  align-items: flex-start;
+  padding: 0 var(--padding-9xs) var(--padding-4xs);
+}
+.vector-icon12 {
+  height: 23.4px;
+  width: 24.7px;
+}
+.certificate-completion4,
+.vector-icon12 {
+  position: relative;
+  z-index: 3;
+}
+.certificate-completion-wrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 0 var(--padding-8xs);
+}
+.material-access,
+.vector-parent2 {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+}
+.vector-parent2 {
+  align-items: flex-end;
+  gap: 0 13px;
+}
+.material-access {
+  align-items: flex-start;
+  padding: 0 var(--padding-9xs) 13px;
+  text-align: center;
+}
+.vector-icon13 {
+  width: 24.7px;
+  height: 23.4px;
+  position: relative;
+  z-index: 3;
+}
+.vector-wrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 0 var(--padding-8xs);
+}
+.a-cool-order1,
+.videos-on-how2 {
+  margin: 0;
+}
+.videos-on-how-container2 {
+  position: relative;
+  z-index: 3;
+}
+.client-work-videos1 {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  padding: 0 0 var(--padding-9xs);
+  gap: 0 19px;
+}
+.vector-icon14 {
+  width: 24.7px;
+  height: 23.4px;
+  position: relative;
+  z-index: 3;
+}
+.vector-frame {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 0 var(--padding-8xs);
+}
+.videos-on-how3,
+.with-clients1 {
+  margin: 0;
+}
+.videos-on-how-container3 {
+  position: relative;
+  z-index: 3;
+}
+.buy-now-c-t-a {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: flex-start;
+  padding: 0 0 var(--padding-sm);
+  gap: 0 20px;
+}
+.logos-and-skills {
+  height: 23.4px;
+  width: 24.7px;
+}
+.logos-and-skills,
+.personal-call-with1 {
+  position: relative;
+  z-index: 3;
+}
+.contact-me1,
+.personal-call-with-me-wrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 0 var(--padding-4xs);
+}
+.contact-me1 {
+  flex-direction: row;
+  align-items: flex-end;
+  gap: 0 20px;
+}
+.vector-icon15 {
+  height: 23.4px;
+  width: 24.7px;
+}
+.mentoring-support2,
+.vector-icon15 {
+  position: relative;
+  z-index: 3;
+}
+.mentoring-support-wrapper,
+.vector-parent3 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 0 var(--padding-4xs);
+}
+.vector-parent3 {
+  flex-direction: row;
+  align-items: flex-end;
+  padding: 0 0 var(--padding-8xs);
+  gap: 0 23px;
+}
+.vector-icon16 {
+  height: 23.4px;
+  width: 24.7px;
+}
+.checking-homework,
+.vector-icon16 {
+  position: relative;
+  z-index: 3;
+}
+.checking-homework-wrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 0 var(--padding-9xs);
+}
+.mentoring-support-rectangle {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: flex-start;
+  gap: 0 22px;
+}
+.frame-parent2,
+.frame-wrapper2 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.frame-parent2 {
+  flex: 1;
+  flex-direction: column;
+  gap: 12px 0;
+}
+.frame-wrapper2 {
+  align-self: stretch;
+  flex-direction: row;
+  padding: 0 0 57px 36px;
+  font-size: var(--font-size-xl);
+}
+.buy-now2 {
+  position: relative;
+  font-size: var(--font-size-13xl);
+  font-family: var(--font-montserrat);
+  color: var(--color-black);
+  text-align: center;
+}
+.cta3 {
+  cursor: pointer;
+  border: 2px solid var(--color-black);
+  padding: var(--padding-lg) var(--padding-29xl) var(--padding-lg)
+    var(--padding-28xl);
+  background-color: var(--color-darkturquoise);
+  border-radius: var(--br-21xl);
+  box-shadow: 0 4px 30px rgba(168, 255, 53, 0.3);
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  white-space: nowrap;
+  z-index: 3;
+}
+.call-to-action-frame,
+.rectangle-parent {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-3xs) 0 0;
+}
+.rectangle-parent {
+  flex: 1;
+  border-radius: var(--br-19xl);
+  background-color: var(--color-gainsboro);
+  flex-direction: column;
+  align-items: center;
+  padding: var(--padding-9xl) var(--padding-xs) 73px var(--padding-4xl);
+  box-sizing: border-box;
+  gap: 46px 0;
+  max-width: 100%;
+  z-index: 2;
+}
+.frame-access-info-frame,
+.mentoring-support1,
+.vector-bonus-video-collection {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.mentoring-support1 {
+  width: 377px;
+  flex-shrink: 0;
+  position: relative;
+  text-align: left;
+}
+.frame-access-info-frame,
+.vector-bonus-video-collection {
+  max-width: 100%;
+}
+.vector-bonus-video-collection {
+  flex: 1;
+  overflow-x: auto;
+  gap: 0 34px;
+}
+.frame-access-info-frame {
+  width: 1274px;
+  padding: 0 var(--padding-15xl) var(--padding-7xs) var(--padding-xl);
+  box-sizing: border-box;
+}
+.skills-logos-frame {
+  align-self: stretch;
+  height: 3px;
+  position: relative;
+  background-color: var(--color-gainsboro);
+}
+.select-payment-method {
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  font-weight: 700;
+  font-family: inherit;
+}
+.select-payment-method-wrapper {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-11xl) 0 0;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.image-7-icon {
+  align-self: stretch;
+  flex: 1;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.select-payment-method-frame {
+  align-self: stretch;
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 88px 0;
+  max-width: 100%;
+}
+.select-payment-method-frame-wrapper,
+.text-node-course-description {
+  display: flex;
+  justify-content: flex-start;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.select-payment-method-frame-wrapper {
+  width: 1114px;
+  height: 617px;
+  flex-direction: row;
+  align-items: flex-start;
+  padding: 0 0 0 var(--padding-9xl);
+  font-size: var(--font-size-23xl);
+  color: #212528;
+}
+.text-node-course-description {
+  margin-left: 2px;
+  align-self: stretch;
+  flex-direction: column;
+  align-items: center;
+  padding: 0 0 var(--padding-8xl);
+  gap: 56px 0;
+  text-align: center;
+  font-size: var(--font-size-17xl);
+  color: var(--color-black);
+  font-family: var(--font-montserrat);
+}
+.rectangle-frame-child {
+  align-self: stretch;
+  height: 3px;
+  position: relative;
+  background-color: var(--color-gainsboro);
+}
+.contact-me2 {
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  font-weight: 700;
+  font-family: inherit;
+}
+.contact-me-wrapper,
+.rectangle-frame {
+  display: flex;
+  justify-content: flex-start;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.contact-me-wrapper {
+  flex-direction: row;
+  align-items: flex-start;
+  padding: 0 var(--padding-11xs) 0 0;
+}
+.rectangle-frame {
+  margin-left: 2px;
+  align-self: stretch;
+  flex-direction: column;
+  align-items: center;
+  padding: 0 0 142px;
+  gap: 65px 0;
+  text-align: center;
+  font-size: var(--font-size-41xl);
+  color: var(--color-black);
+  font-family: var(--font-montserrat);
+}
+.skill-iconsinstagram1 {
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.logos-linkedin-skilliconstwitt,
+.logoslinkedin-icon,
+.skill-iconsinstagram1,
+.skill-iconstwitter {
+  height: 80px;
+  width: 80px;
+  position: relative;
+  min-height: 80px;
+}
+.logoslinkedin-icon,
+.skill-iconstwitter {
+  width: 208px;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.skill-iconstwitter {
+  width: 80px;
+}
+.skill-icons-instagram-vector {
+  width: 752px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: space-between;
+  padding: 0 var(--padding-xl);
+  box-sizing: border-box;
+  gap: var(--gap-xl);
+  max-width: 100%;
+}
+.parent-a-top {
+  width: 100%;
+  position: relative;
+  background-color: #e08bf5;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  padding: 0 0 530px;
+  box-sizing: border-box;
+  gap: 96px 0;
+  letter-spacing: normal;
+}
+@media screen and (max-width: 1200px) {
+  .frame-parent {
+    flex-wrap: wrap;
+  }
+  .frame-button {
+    padding-left: var(--padding-19xl);
+    padding-right: var(--padding-19xl);
+    box-sizing: border-box;
+  }
+  .monthly-subscription {
+    flex-wrap: wrap;
+  }
+  .frame-with-access {
+    padding-right: 22px;
+    box-sizing: border-box;
+  }
+  .select-payment-method-frame {
+    gap: 88px 0;
+  }
+  .select-payment-method-frame-wrapper {
+    max-width: calc(100% - 28px);
+  }
+}
+@media screen and (max-width: 1050px) {
+  .and-make-money,
+  .edit-like-a {
+    font-size: var(--font-size-39xl);
+  }
+  .order {
+    font-size: var(--font-size-7xl);
+  }
+  .professional {
+    gap: 78px 0;
+  }
+  .details-of-users {
+    font-size: var(--font-size-13xl);
+  }
+  .name- {
+    font-size: var(--font-size-9xl);
+  }
+  .mentoring-session {
+    flex-wrap: wrap;
+  }
+  .address-,
+  .contact-number-,
+  .email-id- {
+    font-size: var(--font-size-9xl);
+  }
+  .social-media-audiance-container,
+  .videos-edit-by-container,
+  .views-collected-my-container {
+    font-size: var(--font-size-5xl);
+  }
+  .what-awaits-you {
+    font-size: var(--font-size-39xl);
+  }
+  .for-home,
+  .what-it-gives {
+    font-size: var(--font-size-10xl);
+  }
+  .contact-me {
+    flex: 1;
+  }
+  .experiences {
+    font-size: var(--font-size-10xl);
+  }
+  .rectangle-certified-learning {
+    flex: 1;
+  }
+  .mentoring-support {
+    flex-wrap: wrap;
+  }
+  .price {
+    font-size: var(--font-size-29xl);
+  }
+  .standart {
+    font-size: var(--font-size-10xl);
+  }
+  .div {
+    font-size: var(--font-size-32xl);
+  }
+  .image-node-logo-showcase {
+    padding-top: var(--padding-xl);
+    padding-bottom: 52px;
+    box-sizing: border-box;
+  }
+  .advance {
+    font-size: var(--font-size-10xl);
+  }
+  .description-text {
+    font-size: var(--font-size-32xl);
+  }
+  .child-frame {
+    padding-bottom: var(--padding-26xl);
+    box-sizing: border-box;
+  }
+  .professional1 {
+    font-size: var(--font-size-10xl);
+  }
+  .div1 {
+    font-size: var(--font-size-32xl);
+  }
+  .rectangle-parent {
+    padding-top: var(--padding-xl);
+    padding-bottom: var(--padding-28xl);
+    box-sizing: border-box;
+  }
+  .select-payment-method {
+    font-size: 34px;
+  }
+  .contact-me2 {
+    font-size: var(--font-size-29xl);
+  }
+}
+@media screen and (max-width: 750px) {
+  .logo-section {
+    display: none;
+    padding-left: 39px;
+    padding-right: var(--padding-19xl);
+    box-sizing: border-box;
+  }
+  .professional-wrapper {
+    padding-bottom: 55px;
+    box-sizing: border-box;
+  }
+  .mentoring-session-child {
+    min-width: 100%;
+  }
+  .mentoring-session1 {
+    gap: 0 42px;
+  }
+  .icon-set,
+  .vector-scaling {
+    gap: 46px 0;
+  }
+  .video-lecture-container-parent {
+    gap: 49px 0;
+  }
+  .child-video {
+    max-width: calc(100% - 2px);
+  }
+  .twitter-logo {
+    gap: 84px 0;
+  }
+  .plate-1 {
+    padding-top: var(--padding-xl);
+    padding-bottom: var(--padding-xl);
+    box-sizing: border-box;
+  }
+  .plate-2,
+  .plate-3 {
+    padding-bottom: 69px;
+    box-sizing: border-box;
+  }
+  .plate-3 {
+    padding-bottom: 51px;
+  }
+  .mentoring-support {
+    gap: 0 69px;
+  }
+  .frame-monthly-materials {
+    gap: 74px 0;
+  }
+  .image-node-logo-showcase-inner {
+    padding-bottom: 235px;
+    box-sizing: border-box;
+  }
+  .image-node-logo-showcase {
+    padding-bottom: var(--padding-15xl);
+    box-sizing: border-box;
+  }
+  .button-node {
+    padding-bottom: 100px;
+    box-sizing: border-box;
+  }
+  .child-frame {
+    padding-bottom: var(--padding-10xl);
+    box-sizing: border-box;
+  }
+  .frame-wrapper2 {
+    padding-bottom: 37px;
+    box-sizing: border-box;
+  }
+  .rectangle-parent {
+    padding-bottom: var(--padding-12xl);
+    box-sizing: border-box;
+  }
+  .vector-bonus-video-collection {
+    gap: 0 34px;
+  }
+  .select-payment-method-frame {
+    gap: 88px 0;
+  }
+  .text-node-course-description {
+    gap: 56px 0;
+  }
+  .rectangle-frame {
+    gap: 65px 0;
+  }
+  .skill-icons-instagram-vector {
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+  .parent-a-top {
+    gap: 96px 0;
+  }
+}
+@media screen and (max-width: 450px) {
+  .and-make-money,
+  .edit-like-a {
+    font-size: var(--font-size-24xl);
+  }
+  .this-is-an {
+    font-size: var(--font-size-xl);
+  }
+  .accesstosharedchat {
+    gap: 43px 0;
+  }
+  .order {
+    font-size: 19px;
+  }
+  .order-from-here {
+    font-size: var(--font-size-lg);
+  }
+  .professional {
+    gap: 78px 0;
+  }
+  .photoshop {
+    font-size: var(--font-size-xl);
+  }
+  .vscode-iconsfile-type-photosh-parent {
+    flex-wrap: wrap;
+  }
+  .after-effects {
+    font-size: var(--font-size-xl);
+  }
+  .logosadobe-after-effects-parent {
+    flex-wrap: wrap;
+  }
+  .details-of-users {
+    font-size: var(--font-size-5xl);
+  }
+  .address-,
+  .contact-number-,
+  .email-id-,
+  .name- {
+    font-size: var(--font-size-2xl);
+  }
+  .who-am-i-container {
+    font-size: var(--font-size-xl);
+  }
+  .as-you-know-container {
+    font-size: var(--font-size-2xl);
+    line-height: 26px;
+  }
+  .social-media-audiance-container,
+  .videos-edit-by-container,
+  .views-collected-my-container {
+    font-size: var(--font-size-lg);
+  }
+  .contact-me-frame {
+    flex-wrap: wrap;
+  }
+  .what-awaits-you {
+    font-size: var(--font-size-24xl);
+  }
+  .twitter-logo {
+    gap: 84px 0;
+  }
+  .for-home {
+    font-size: var(--font-size-3xl);
+  }
+  .vector-logos-linkedin {
+    gap: 52px 0;
+  }
+  .plate-1 {
+    gap: 76px 0;
+    padding-left: var(--padding-xl);
+    box-sizing: border-box;
+  }
+  .what-it-gives {
+    font-size: var(--font-size-3xl);
+  }
+  .what-it-gives-wrapper {
+    padding-left: var(--padding-xl);
+    box-sizing: border-box;
+  }
+  .plate-2 {
+    gap: 46px 0;
+  }
+  .experiences {
+    font-size: var(--font-size-3xl);
+  }
+  .plate-3 {
+    gap: 40px 0;
+  }
+  .mentoring-support {
+    gap: 0 69px;
+  }
+  .price {
+    font-size: var(--font-size-17xl);
+  }
+  .frame-monthly-materials {
+    gap: 74px 0;
+  }
+  .standart {
+    font-size: var(--font-size-3xl);
+  }
+  .special-first-packet {
+    font-size: var(--font-size-lg);
+  }
+  .div {
+    font-size: var(--font-size-19xl);
+  }
+  .access-to-material-container,
+  .access-to-material-container1,
+  .access-to-shared,
+  .access-to-shared1,
+  .certificate-completion1,
+  .video-lecture,
+  .video-lecture1 {
+    font-size: var(--font-size-base);
+  }
+  .advance {
+    font-size: var(--font-size-3xl);
+  }
+  .special-second-packet {
+    font-size: var(--font-size-lg);
+  }
+  .description-text {
+    font-size: var(--font-size-19xl);
+  }
+  .access-to-material-container2,
+  .access-to-shared2,
+  .certificate-completion3,
+  .personal-call-with,
+  .video-lecture2,
+  .videos-on-how-container,
+  .videos-on-how-container1 {
+    font-size: var(--font-size-base);
+  }
+  .professional1 {
+    font-size: var(--font-size-3xl);
+  }
+  .special-third-packet {
+    font-size: var(--font-size-lg);
+  }
+  .div1 {
+    font-size: var(--font-size-19xl);
+  }
+  .access-to-material-container3,
+  .access-to-shared3,
+  .certificate-completion4,
+  .checking-homework,
+  .mentoring-support2,
+  .personal-call-with1,
+  .video-lecture3,
+  .videos-on-how-container2,
+  .videos-on-how-container3 {
+    font-size: var(--font-size-base);
+  }
+  .select-payment-method {
+    font-size: var(--font-size-6xl);
+  }
+  .contact-me2 {
+    font-size: var(--font-size-17xl);
+  }
+  .contact-me-wrapper {
+    max-width: calc(100% - 2px);
+  }
+  .rectangle-frame {
+    gap: 65px 0;
+  }
+
+
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+:root {
+  /* fonts */
+  --font-montserrat: Montserrat;
+  --font-monda: Monda;
+  --font-roboto: Roboto;
+  --font-inter: Inter;
+
+  /* font sizes */
+  --font-size-41xl: 60px;
+  --font-size-17xl: 36px;
+  --font-size-29xl: 48px;
+  --font-size-23xl: 42px;
+  --font-size-6xl: 25px;
+  --font-size-13xl: 32px;
+  --font-size-xl: 20px;
+  --font-size-base: 16px;
+  --font-size-45xl: 64px;
+  --font-size-19xl: 38px;
+  --font-size-32xl: 51px;
+  --font-size-3xl: 22px;
+  --font-size-lg: 18px;
+  --font-size-10xl: 29px;
+  --font-size-53xl: 72px;
+  --font-size-24xl: 43px;
+  --font-size-39xl: 58px;
+  --font-size-5xl: 24px;
+  --font-size-11xl: 30px;
+  --font-size-7xl: 26px;
+  --font-size-2xl: 21px;
+  --font-size-16xl: 35px;
+  --font-size-9xl: 28px;
+
+  /* Colors */
+  --color-black: #000;
+  --color-gainsboro: #d9d9d9;
+  --color-gray-100: #fafafa;
+  --color-darkturquoise: #12cbcb;
+  --color-lightseagreen: #00b3b3;
+  --color-darkslategray-100: #333;
+  --color-darkred: #a22700;
+  --color-white: #fff;
+
+  /* Gaps */
+  --gap-77xl: 96px;
+  --gap-xl: 20px;
+  --gap-46xl: 65px;
+  --gap-37xl: 56px;
+  --gap-69xl: 88px;
+  --gap-0: 0px;
+  --gap-27xl: 46px;
+  --gap-3xl: 22px;
+  --gap-6xs: 7px;
+  --gap-mini: 15px;
+  --gap-base: 16px;
+  --gap-55xl: 74px;
+  --gap-21xl: 40px;
+  --gap-57xl: 76px;
+  --gap-33xl: 52px;
+  --gap-65xl: 84px;
+  --gap-30xl: 49px;
+  --gap-59xl: 78px;
+  --gap-24xl: 43px;
+
+  /* Paddings */
+  --padding-xl: 20px;
+  --padding-11xs: 2px;
+  --padding-8xl: 27px;
+  --padding-9xl: 28px;
+  --padding-11xl: 30px;
+  --padding-15xl: 34px;
+  --padding-7xs: 6px;
+  --padding-xs: 12px;
+  --padding-4xl: 23px;
+  --padding-12xl: 31px;
+  --padding-28xl: 47px;
+  --padding-3xs: 10px;
+  --padding-lg: 18px;
+  --padding-29xl: 48px;
+  --padding-9xs: 4px;
+  --padding-8xs: 5px;
+  --padding-4xs: 9px;
+  --padding-sm: 14px;
+  --padding-12xs: 1px;
+  --padding-5xs: 8px;
+  --padding-2xl: 21px;
+  --padding-10xl: 29px;
+  --padding-26xl: 45px;
+  --padding-10xs: 3px;
+  --padding-6xs: 7px;
+  --padding-mini: 15px;
+  --padding-14xl: 33px;
+  --padding-16xl: 35px;
+  --padding-35xl: 54px;
+  --padding-base: 16px;
+  --padding-19xl: 38px;
+  --padding-57xl: 76px;
+
+  /* Border radiuses */
+  --br-19xl: 38px
